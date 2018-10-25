@@ -1,0 +1,408 @@
+﻿/*RESPONSIVE*/
+
+@media screen and (min-width:1367px) and (max-width:1920px) {}
+
+@media screen and (min-width:1200px) and (max-width:1366px) {}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    /* index */
+    .logo {
+        width: 205px;
+    }
+    .main-menu {
+        left: 4%;
+    }
+    .slider-wrapper {
+        height: 399px;
+    }
+    .service-content {
+        height: 753px;
+    }
+    .img-service1 {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        top: 0;
+        width: 87%;
+    }
+    .log0-footer {
+        width: 80%;
+    }
+    .log0-footer>a>img {
+        max-width: 53%;
+        top: 32px;
+    }
+    .about {
+        top: 24px;
+    }
+    .main-footer .top-footer {
+        height: 188px;
+    }
+    .footer-infor {
+        width: 111%;
+    }
+    .phone-img {
+        bottom: 1px;
+    }
+    .menu-scroll {
+        left: 2%;
+    }
+    .box-search-scroll {
+        margin-top: 21px;
+        width: 63%;
+    }
+    /*  */
+}
+
+@media screen and (max-width:992px) {}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .footer-infor {
+        width: 100%;
+    }
+    .log0-footer {
+        width: 89%;
+    }
+    .log0-footer>a>img {
+        max-width: 67%;
+    }
+    .about {
+        top: 22px;
+    }
+    .img-contac {
+        height: auto;
+        width: 100%;
+    }
+    .service-content {
+        height: 658px;
+    }
+    .copy-r {
+        display: none;
+    }
+    .product-content {
+        height: 448px;
+    }
+    .title-service {
+        font-size: 31px;
+        height: 128px;
+        padding-top: 63px;
+    }
+    .product-content .product-title {
+        font-size: 31px;
+        height: 102px;
+        padding-top: 51px;
+    }
+    .img-product {
+        width: 76%;
+    }
+    .text-img .nn {
+        top: 37px;
+    }
+    .list-service1 {
+        top: 31px;
+    }
+    .list-service3 {
+        top: 106px;
+    }
+    /* menu */
+    .main-menu {
+        left: 5%;
+    }
+    .main-menu li {
+        width: 87px;
+    }
+    /* menu scroll */
+    .menu-scroll {
+        left: 4%;
+    }
+    .menu-scroll li {
+        width: 82px;
+    }
+    .box-search-scroll {
+        margin-top: 23px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .img-contac {
+        width: 100%;
+    }
+    .s-i-conten:nth-of-type(3),
+    .s-i-conten:nth-of-type(4) {
+        position: relative;
+        top: 99px;
+    }
+    .product-content {
+        height: 818px;
+    }
+    .img-product {
+        width: 63%;
+    }
+    .img-product:hover {
+        width: 63%;
+        height: auto;
+    }
+    .s-i-svcontent:nth-of-type(2) {
+        left: -24%;
+        position: relative;
+        top: 84px;
+    }
+    .s-i-svcontent:nth-of-type(3) {
+        position: relative;
+        top: -184px;
+    }
+    .list-service1 {
+        width: 77%;
+    }
+    .text-sevice1>h4 {
+        font-size: 16px;
+    }
+    .title-service {
+        font-size: 30px;
+        height: 121px;
+        padding-top: 54px;
+    }
+    .img-service1 {
+        width: 94%;
+    }
+    .list-service1 {
+        top: 10px;
+    }
+    .service-content {
+        height: 642px;
+    }
+    .img-product>img {
+        width: 85%;
+    }
+    .text-img h4 a {
+        font-size: 16px;
+    }
+    .product-content .product-title {
+        font-size: 31px;
+        height: 97px;
+        padding-top: 39px;
+    }
+    .main-footer .top-footer {
+        height: 265px;
+    }
+    .log0-footer {
+        top: -39px;
+    }
+    .log0-footer>a>img {
+        max-width: 69%;
+        /* top: -14px; */
+    }
+    .about {
+        top: -12px;
+    }
+    .copy-r {
+        display: none;
+    }
+    .vp-social-icons {
+        top: 8px;
+    }
+    .footer-infor {
+        position: relative;
+        top: 8px;
+    }
+    .bottom-footer {
+        height: 40px;
+        top: 0px;
+        width: 100%;
+    }
+    .footer-infor {
+        padding-top: 0;
+    }
+}
+
+@media screen and (min-width:668px) and (max-width:701px) {
+    .main-footer .top-footer {
+        padding-top: 39px;
+    }
+    /* may tinh */
+    .chil-page {
+        padding-top: 10%;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:667px) {
+    .s-i-svcontent {
+        width: 100%;
+    }
+    .list-service1 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .service-content {
+        height: auto;
+    }
+    .s-i-svcontent:nth-of-type(2) {
+        left: 0px;
+        top: 0px;
+    }
+    .s-i-svcontent:nth-of-type(3) {
+        top: 0px;
+        padding-bottom: 29px;
+    }
+    .img-service1>img {
+        width: 55%;
+    }
+    .main-footer .top-footer {
+        height: auto;
+        padding-top: 18px;
+    }
+    .ts-logo-footer {
+        display: none;
+    }
+    .ts-about {
+        height: auto;
+        padding-top: 14px;
+        width: 100%;
+    }
+    .bottom-footer {
+        height: auto;
+    }
+    .title-service {
+        height: auto;
+    }
+    .title-service {
+        padding-top: 0px;
+    }
+    .ts-i-infor {
+        display: none;
+    }
+    .ts-f-infor {
+        height: 40px;
+        width: 100%;
+    }
+    /* nguyên tắc kinh doanh */
+    .vp-page {
+        width: 59%;
+    }
+    /* may tinh */
+    .chil-page {
+        padding-top: 18%;
+    }
+    .title-chil {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .product-content {
+        height: auto;
+    }
+    .product-content .product-title {
+        font-size: 28px;
+        height: auto;
+        padding-top: 39px;
+    }
+    .list-product {
+        padding-top: 12%;
+        top: 0px;
+    }
+    .s-i-conten {
+        width: 50%;
+    }
+    .text-img h4 a {
+        font-size: 15px;
+    }
+    .product-content {
+        height: 591px;
+    }
+    /*  */
+    .main-footer .top-footer {
+        height: auto;
+        padding-top: 18px;
+    }
+    .ts-logo-footer {
+        display: none;
+    }
+    .ts-about {
+        height: auto;
+        padding-top: 14px;
+        width: 100%;
+    }
+    .bottom-footer {
+        height: auto;
+    }
+    .title-service {
+        height: auto;
+    }
+    .title-service {
+        padding-top: 0px;
+    }
+    .ts-i-infor {
+        display: none;
+    }
+    .ts-f-infor {
+        height: 40px;
+        width: 100%;
+    }
+    /*  */
+    .s-i-svcontent {
+        width: 100%;
+    }
+    .list-service1 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .service-content {
+        height: auto;
+    }
+    .s-i-svcontent:nth-of-type(3) {
+        top: 0px;
+    }
+    .s-i-svcontent:nth-of-type(2) {
+        left: 0%;
+        top: 0px;
+    }
+    .list-service {
+        padding-bottom: 27px;
+    }
+    /* nguyen tac kinh doanh */
+    .vp-page {
+        width: 79%;
+    }
+    /* may tinh */
+    .chil-page {
+        padding-top: 20%;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:399px) {
+    .product-content .product-title {
+        font-size: 24px;
+    }
+    .s-i-conten:nth-of-type(3) {
+        position: relative;
+        top: 80px;
+    }
+    .s-i-conten:nth-of-type(4) {
+        position: relative;
+        top: 29px;
+    }
+    .title-service {
+        font-size: 24px;
+    }
+    .phone-img {
+        width: 58%;
+    }
+    /* khách hàng */
+    .p-content {
+        padding-bottom: 12px;
+    }
+    .chil-page {
+        padding-top: 26%;
+    }
+}
+
+@media screen and (min-width:0px) and (max-width:319px) {
+    .chil-page {
+        padding-top: 26%;
+    }
+    .title-chil {
+        font-size: 24px;
+        margin-top: 23%;
+    }
+}
